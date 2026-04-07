@@ -1,0 +1,30 @@
+.titulo{
+    color: white;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 50px;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+
+}
+.marco{
+    color: black;
+    border: 2px solid gray;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 10px;
+    font-weight: bold;
+    background-color: white;
+}
+.p{
+    color: black;
+    text-decoration: none;
+}
+
+.p2{
+    transition: transform 0.3s ease;
+}
+.p2:hover{
+    transform: scale(1.1);
+}

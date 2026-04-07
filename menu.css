@@ -1,0 +1,142 @@
+body{
+    background-color: white;
+    
+}
+.titulo1{
+    color: white;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+
+
+.foto1{
+  background-image: url("daniel-storek-JM-qKEd1GMI-unsplash.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.titulo2{
+    text-align: center;
+    font-weight: lighter;
+}
+.texto{
+     font-family: "Playfair Display", serif;
+     font-size: 20px;
+     text-align: center;
+}
+.boton{
+    text-align: center;
+    
+    
+   
+}
+.boton{
+    transition: transform 0.3s ease;
+}
+.boton:hover{
+    transform: scale(1.1);
+}
+.boton2{
+    display: flex;
+    justify-content: center;
+     cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+.boton2{
+    transition: transform 0.3s ease;
+}
+.boton2:hover{
+    transform: scale(1.1);
+}
+h2{
+    display: inline-block;
+    border-bottom: 5px solid black;
+    padding: 12px 30px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    background-color: black;
+   color: white;
+   cursor: pointer;
+}
+.texto2{
+    font-size: 25px;
+    font-family: "Playfair Display", serif;;
+}
+.marco{
+    color: black;
+    border: 2px solid gray;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-weight: bold;
+    background-color: white;
+}
+.p{
+    color: black;
+    text-decoration: none;
+}
+.p2{
+    transition: transform 0.3s ease;
+}
+.p2:hover{
+    transform: scale(1.1);
+}
+.fotos{
+    background-image: url(zapa2.jpg);
+    height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+.fotos2{
+    background-image: url(juan-burgos-3_XeNGVbTQA-unsplash.jpg);
+     height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+.fotos3{
+    background-image: url(camp8.jpg);
+     height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+h3{
+     font-family: "Playfair Display", serif;
+    
+}
+.foto2{
+    display: flex;
+    justify-content: center;
+
+}
+.final{
+    text-align: center;
+    background-color: gray;
+}
+.dos{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+
+}
+.mail{
+    color: black;
+    text-decoration: none;
+} 
+h4{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
